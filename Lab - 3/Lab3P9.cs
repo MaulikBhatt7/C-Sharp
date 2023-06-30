@@ -1,4 +1,9 @@
-﻿using System;
+/*
+	Write a program for implementing single inheritance which 	creates one class Account_Details for getting account 	information and another class Interest for calculating and 	displaying total interest from the data inserted from 	account details.
+*/
+
+
+using System;
 
 class Account_Details_Demo
 {
