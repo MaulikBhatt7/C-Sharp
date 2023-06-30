@@ -1,4 +1,9 @@
-﻿using System;
+/*
+	Write a pogram to Create a class Bank_Account with 	Account_No, Email, User_Name, Account_Type and 	Account_Balance as data members. Also create a Member 	function GetAccountDetails() & DisplayAccountDetails().
+*/
+
+
+using System;
 
 public class Program
 {
